@@ -15,7 +15,7 @@ gca_languages['pl'] = {
 	translators : ["wupload", "Legiss", "Vanish_Si"],
 	locale : {
 		info : {
-			description : "Zwariowany dodatek dla Gladiatus"
+			description : "Zwariowany dodatek dla Gladiatusa"
 		},
 		general : {
 			days : "Dni",
@@ -50,7 +50,7 @@ gca_languages['pl'] = {
 			online_display : "Wyświetl graczy online",
 			online_friends : "Przyjaciele online",
 			guild_friends : "Przyjaciele gildyjni",
-			family_friends : "Rodzina",
+			family_friends : "Familia",
 			donate_gold_confirm : "Czy na pewno chcesz przekazać {{number}} złota?",
 			donate_gold_success : "Twoje złoto zostało przekazane",
 			donate_gold_failed : "Wystąpił błąd podczas przekazywania złota",
@@ -159,11 +159,11 @@ gca_languages['pl'] = {
 			category_global$auction_status_notification : "Pokaż zmianę statusu aukcji",
 			category_global$top_fixed_bar : "Włącz górny pasek przewijania",
 			category_global$advance_main_menu : "Popraw główne menu",
-			category_global$submenu_click_to_change : "Zmiana podmenu po kliknięciu",
+			category_global$submenu_click_to_change : "Zmiana karty (miasto/wyprawa) na kliknięcie",
 			category_global$remember_tabs : "Pamiętaj ostatnią wybraną kartę u kupców",
 			category_global$attacked_timers : "Pokaż licznik atakujących",
-			category_global$quest_timer : "Pokaż status zadańlub licznik",
-			category_global$merchants_timer : "Wyświetl czas kupcówr",
+			category_global$quest_timer : "Pokaż status zadań lub licznik",
+			category_global$merchants_timer : "Wyświetl czas kupców",
 			category_global$forge_timers : "Wyświetl czas w kuźni/roztapiarki",
 			category_global$cooldown_sound_notifications : "Włącz dźwięk powiadomień (wyprawy, lochy, arena)",
 			category_global$notify_new_guild_application : "Powiadom mnie, gdy pojawi się nowe podanie do gildii",
@@ -181,7 +181,6 @@ gca_languages['pl'] = {
 			category_global$show_forge_info : "Pokaż potrzebne składniki do wykucia przedmiotu",
 			category_overview$analyze_items : "Analizuj statystyki przedmiotu",
 			category_overview$food_life_gain : "Pokaż ile zdrowia przywraca jedzenie",
-			category_overview$block_avoid_caps : "Show block and Avoid caps",
 			category_overview$best_food : "Podświetl najbardziej odpowiednie jedzenie w stosunku do obecnego zdrowia",
 			category_overview$overfeed_food : "Przyciemnij jedzenie, które leczy zbyt dużo zdrowia",
 			category_overview$daily_bonus_log : "Dzienne bonusy logowania",
